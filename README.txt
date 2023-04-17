@@ -1,4 +1,5 @@
-CZI Reader: A custom CZI Reader built upon the implementation within the BioFormats library. 
+## CZI Reader ##
+### A custom CZI Reader built upon the implementation within the BioFormats library ###
 
 At the time this was written, the BioFormats implementation could only load data from individual image series, or "scenes", within the CZI file, and could only do that using the coordinates relative to that particular series. As a result it was not possible to load data from a specific region of the whole slide, despite the BioFormats having all of the information to do so.
 

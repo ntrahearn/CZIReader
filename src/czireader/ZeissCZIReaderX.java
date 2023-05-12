@@ -1,5 +1,10 @@
 /*
  * #%L
+ * Reader for Zeiss CZI Images. 
+ * %%
+ * Copyright (C) 2023 Nicholas Trahearn
+ * %%
+ * Source code is based upon:
  * OME Bio-Formats package for reading and converting biological file formats.
  * %%
  * Copyright (C) 2005 - 2017 Open Microscopy Environment:
